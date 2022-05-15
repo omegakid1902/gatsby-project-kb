@@ -1,6 +1,7 @@
 const path = require('path')
 
-const pathPrefix = process.env.KB_BASE_PATH || '/'
+//const pathPrefix = process.env.KB_BASE_PATH || '/'
+const pathPrefix = process.env.KB_BASE_PATH || 'gatsby-project-kb'
 
 module.exports = {
   pathPrefix,

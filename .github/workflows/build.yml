@@ -19,14 +19,15 @@ jobs:
       
       - name: yarn install
         uses: jaid/action-npm-install@v1.2.4
+      - run: node --version
+      - run: gatsby --version
       - name: build
         uses: CultureHQ/actions-yarn@master
         env:
           KB_BASE_PATH: '/gatsby-project-kb'
         with:
           args: build
-      - run: node --version
-      - run: gatsby --version
+
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v2

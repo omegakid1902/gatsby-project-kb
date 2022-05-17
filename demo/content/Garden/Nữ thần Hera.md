@@ -1,6 +1,5 @@
 ---
 title: Nữ thần Hera
-UID: 220222215437
 created: 22-Feb-2022
 tags:
   - 'created/2022/Feb/22'
@@ -11,10 +10,9 @@ aliases:
   - Juno
 publish: True
 ---
-# Nữ thần Hera
 
 ## Notes:
-[[220222215658 - Hera được gọi là Juno trong tiếng Latin]]
+__220222215658 - Hera được gọi là Juno trong tiếng Latin__
 
 ## Ideas & thoughts:
 

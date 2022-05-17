@@ -1,6 +1,5 @@
 ---
 title: Thần Poseidon
-UID: 220119233908
 created: 19-Jan-2022
 tags:
   - 'created/2022/Jan/19'
@@ -11,7 +10,6 @@ aliases:
   - Poseidon
 publish: True
 ---
-# Poseidon
 
 ## Notes:
 Thần biển cả

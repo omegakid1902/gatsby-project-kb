@@ -1,6 +1,5 @@
 ---
 title: Thần Zeus
-UID: 220222215006
 created: 22-Feb-2022
 tags:
   - 'created/2022/Feb/22'
@@ -11,7 +10,6 @@ aliases:
   - Zeus
 publish: True
 ---
-# Thần Zeus
 
 ## Notes:
 

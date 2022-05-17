@@ -1,6 +1,5 @@
 ---
 title: Uranus
-UID: 220226214524
 created: 26-Feb-2022
 tags:
   - 'created/2022/Feb/26'
@@ -11,7 +10,6 @@ aliases:
   - Thần bầu trời Uranus
 publish: True
 ---
-# Titan Uranus
 
 ## Notes:
 

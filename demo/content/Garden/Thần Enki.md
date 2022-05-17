@@ -1,6 +1,5 @@
 ---
 title: Thần Enki
-UID: 220120230219
 created: 20-Jan-2022
 tags:
   - 'created/2022/Jan/20'
@@ -11,15 +10,14 @@ aliases:
   - Enki
 publish: True
 ---
-# Thần Enki
 
 ## Notes:
 
 Thần Enki, tên gọi khác là thần Ea.
 
-- [[220121 - Enki là thần nước]]
-- [[220121230516 - Enki tạo ra loài người]]
-- [[220121231251 - Marduk con trai Enki]]
+- __220121 - Enki là thần nước__
+- __220121230516 - Enki tạo ra loài người__
+- __220121231251 - Marduk con trai Enki__
 
 ## Ideas & thoughts:
 

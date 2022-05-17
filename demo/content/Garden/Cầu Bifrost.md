@@ -1,6 +1,5 @@
 ---
 title: Cầu Bifost
-UID: 220122121955
 created: 22-Jan-2022
 tags:
   - 'created/2022/Jan/22'
@@ -11,11 +10,10 @@ aliases:
   - Bifrost
 publish: True
 ---
-# Cầu Bifost
 
 ## Notes:
 - [[Thần thoại Bắc Âu]]
-- [[220122 - Cầu Bifost nối Midgard và Asgard]]
+- __220122 - Cầu Bifost nối Midgard và Asgard__
 
 ## Ideas & thoughts:
 

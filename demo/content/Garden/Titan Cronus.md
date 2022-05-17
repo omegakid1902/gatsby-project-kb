@@ -1,6 +1,5 @@
 ---
 title: Titan Cronus
-UID: 220222215308
 created: 22-Feb-2022
 tags:
   - 'created/2022/Feb/22'
@@ -11,10 +10,9 @@ aliases:
   - Kronos
 publish: True
 ---
-# Titan Cronus
 
 ## Notes:
-- [[220227093815 - Cronus còn được gọi là Kronos]]
+- __220227093815 - Cronus còn được gọi là Kronos__
 
 ## Ideas & thoughts:
 

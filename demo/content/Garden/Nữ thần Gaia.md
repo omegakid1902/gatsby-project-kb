@@ -1,6 +1,5 @@
 ---
 title: Nữ thần Gaia
-UID: 220226214549
 created: 26-Feb-2022
 tags:
   - 'created/2022/Feb/26'
@@ -14,10 +13,9 @@ aliases:
   - Đất mẹ
 publish: True
 ---
-# Nữ thần Gaia
 
 ## Notes:
-- [[220226214944 - Gaia có tên là Terra trong thần thoại La Mã]]
+- __220226214944 - Gaia có tên là Terra trong thần thoại La Mã__
 
 ## Ideas & thoughts:
 

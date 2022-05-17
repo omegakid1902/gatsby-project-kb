@@ -1,6 +1,5 @@
 ---
 title: Nữ thần Athena
-UID: 220222220847
 created: 22-Feb-2022
 tags:
   - 'created/2022/Feb/22'
@@ -12,10 +11,9 @@ aliases:
   - Pallas
 publish: True
 ---
-# Nữ thần Athena
 
 ## Notes:
-- [[220304205901 - Athena còn có biệt danh Pallas]]
+- __220304205901 - Athena còn có biệt danh Pallas__
 
 ## Ideas & thoughts:
 

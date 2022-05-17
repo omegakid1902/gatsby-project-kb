@@ -1,6 +1,5 @@
 ---
 title: Thần Tiamat
-UID: 220121234028
 created: 21-Jan-2022
 tags:
   - 'created/2022/Jan/21'
@@ -8,11 +7,10 @@ tags:
   - 'permanent/concept'
 publish: True
 ---
-# Thần Tiamat
 
 ## Notes:
-- [[220121 - Tiamat thần đại dương thần thoại Lưỡng Hà]]
-- [[220121 - Tiamat lấy Abzu sinh ra các vị thần]]
+- __220121 - Tiamat thần đại dương thần thoại Lưỡng Hà__
+- __220121 - Tiamat lấy Abzu sinh ra các vị thần__
 
 
 ## Ideas & thoughts:
